@@ -1,0 +1,27 @@
+nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px ;
+    background-color: rgb(28, 216, 44);
+    position: top;
+
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+nav li{
+    display: inline-block;
+    color: rgb(19, 17, 17);    
+    text-decoration: none;
+   
+    
+}
+li a {
+    color: aliceblue;
+}
+li a:hover{
+    background-color: #111;
+    padding: 10px;
+}
